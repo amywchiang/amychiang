@@ -87,7 +87,7 @@ body {
 }
 
 #blurb2 {
-        width: 650px;
+        width: 400px;
         margin: 0 auto;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -95,6 +95,13 @@ body {
 
 }
 
+#blurb3 {
+        width: 600px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: left;  
+}
 
 .interestphotos {
         padding: 10 10 10 10;
