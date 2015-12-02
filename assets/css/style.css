@@ -1,0 +1,148 @@
+body {
+        font-family: 'Open Sans', sans-serif;
+
+}
+
+/*first page */
+
+#chicago {
+        position: absolute
+        width: 100%;
+        z-index: -10;
+}
+
+#header1 {
+        font-family: 'pacifico';
+        color: white;
+        position: relative;
+        text-align: left;
+        font-size: 40px;
+        top: -555px;
+        left: 30px;
+        z-index: 5;
+}
+
+.sections {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14;
+        position: relative;
+        color: white;
+        top: -900px;
+        left: 1000px;
+        float: left;
+        padding-right: 40px;
+        z-index: 10;
+}
+
+/*second page*/
+
+#header {
+        font-family: 'pacifico';
+        font-size: 35;
+        font-weight: 20;
+        padding: 5px 5px 1px 5px;
+        text-align: center;
+}
+
+#header2 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18;
+        color: #4eb4d4;
+        text-align: center;
+        padding-top: 20;
+        padding-bottom: 15;
+}
+
+.header2_1 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18;
+        color: #4eb4d4;
+        text-align: center;
+        padding-top: 20;
+        padding-bottom: 15;
+}
+
+
+
+.container{
+        width: 1200px;
+        text-align: center;
+        margin: 0px auto;
+        padding: 30px 0px;
+}
+
+#me {
+        position: relative;
+        padding-top: 30px;
+        padding-bottom: 10px;
+}
+
+
+#blurb1 {
+        width: 400px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: left;
+}
+
+#blurb2 {
+        width: 650px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: left;
+
+}
+
+
+.interestphotos {
+        padding: 10 10 10 10;
+}
+
+
+.vsco {
+        padding: 10 10 10 10;
+}
+
+.profilecontainer {
+        display: inline-block;
+        vertical-align: top;
+}
+
+.social_media {
+        display: inline-block;
+        padding: 10 10 10 10;
+}
+
+.photocontainer {
+        display: inline-block;
+        vertical-align: top;
+}
+
+.photo {
+        padding: 10 10 10 10;
+}
+
+#button {
+        font-family: 'pacifico';
+        font-size: 35;
+        font-weight: 20;
+        padding: 5px 5px 1px 5px;
+        text-align: center;
+
+}
+
+#scrolltop {
+        font-family: 'pacifico';
+        font-size: 35;
+        text-align: right;
+        margin-right: 30;
+        z-index: 20;
+        border-radius: 50%;
+
+}
+
+#container3 {
+        display:none;
+}
